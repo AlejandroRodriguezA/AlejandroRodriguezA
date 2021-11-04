@@ -2,9 +2,10 @@
 
 
 - 🔭 I’m currently working on my Portfolio page:   
-http://www.aj-ra.com/ or https://alejandrorodrigueza.github.io/portfolio/   
+  - http://www.aj-ra.com/ (without security certificate) or 
+  - https://alejandrorodrigueza.github.io/portfolio/   
 
-- 🌱 I’m currently learning SASS, JS, Angular,Django, REST, etc...a BIG...etc.
+- 🌱 I’m currently learning SASS, JS, Angular,Django, REST, BASH, etc...a BIG...etc.
 - Reading:   
 1. ***"Rethinking Your Job Search In Tech"*** by [Jon Jackson](https://iamjonjackson.gumroad.com/). So far...an excellent book.  
 2. Atomic Habits, by James Clear.  
