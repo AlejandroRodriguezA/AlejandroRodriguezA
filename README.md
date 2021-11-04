@@ -1,8 +1,9 @@
 ### Hi there 👋...
 
 
-- 🔭 I’m currently working on my Portfolio page.
-    http://www.aj-ra.com/ or https://alejandrorodrigueza.github.io/portfolio/
+- 🔭 I’m currently working on my Portfolio page.   
+http://www.aj-ra.com/ or https://alejandrorodrigueza.github.io/portfolio/   
+
 - 🌱 I’m currently learning SASS, JS, Angular,Django, REST, etc...a BIG...etc.
 - Reading:   
 
