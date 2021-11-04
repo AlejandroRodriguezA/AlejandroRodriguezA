@@ -11,7 +11,7 @@ http://www.aj-ra.com/ or https://alejandrorodrigueza.github.io/portfolio/
   2. Atomic Habits, by James Clear.  
   
 - 📫 How to reach me:    
-       * In my Porfolio Page have all my contacts, but the best way is by rodriguezalvarez@gmail.com
+1. In my Porfolio Page have all my contacts, but the best way is by rodriguezalvarez@gmail.com
 
 <!--
 **AlejandroRodriguezA/AlejandroRodriguezA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
