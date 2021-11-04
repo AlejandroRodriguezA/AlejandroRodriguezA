@@ -6,8 +6,9 @@
 - 🌱 I’m currently learning SASS, JS, Angular,Django, REST, etc...a BIG...etc.
 - Reading:   
 
-       1. ***"Rethinking Your Job Search In Tech"*** by [Jon Jackson](https://iamjonjackson.gumroad.com/). So far...an excellent book.
-       2. Atomic Habits, by James Clear
+  1. ***"Rethinking Your Job Search In Tech"*** by [Jon Jackson](https://iamjonjackson.gumroad.com/). So far...an excellent book.
+  2. Atomic Habits, by James Clear.  
+  
 - 📫 How to reach me: 
        * In my Porfolio Page have all my contacts, but the best way is by rodriguezalvarez@gmail.com
 
